@@ -199,6 +199,7 @@ Sidebar
   transition: var(--transition);
   cursor: pointer;
   color: var(--clr-red-dark);
+  
 }
 .close-btn:hover {
   color: var(--clr-red-light);
